@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Marmitas</string>
+    <string name="botao_cadastro">Cadastrar Marmita</string>
+    <string name="botao_trocar_tela">Ver marmitas cadastradas</string>
+    <string name="txt_cadastrado">Cadastrado com sucesso!</string>
+    <string name="botao_voltar">Voltar</string>
+
+</resources>
